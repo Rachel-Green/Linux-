@@ -10866,12 +10866,12 @@ big5.china.com.cn##.Advertising > a
 usefultools.icu##.Advertising_all
 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.BAIDU_CLB_AD
 le.com##.Banner
-zhihu.com##.Banner-link
-zhihu.com##.Banner-link + .Pc-card-button-close
 zhihu.com##.Modal-backdrop
 zhihu.com##.Modal-wrapper
 zhihu.com##.Question-sideColumnAdContainer
 zhihu.com#$#html { overflow: scroll !important; }
+zhihu.com##.Banner-link
+zhihu.com##.Banner-link + .Pc-card-button-close
 china.com.cn##.Banner_left
 china.com.cn##.Banner_right
 58avgo.com##.BillingLeft
